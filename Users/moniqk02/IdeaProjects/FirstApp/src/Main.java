@@ -7,6 +7,7 @@ public class Main {
         System.out.println("First line from app"); // This is a line comment
         System.out.println("Second line from app");
         System.out.println("Third line from app");
+        System.out.println("Fourth line from app");
 /*
         //variables
         int myVar;
